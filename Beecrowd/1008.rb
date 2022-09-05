@@ -1,3 +1,5 @@
+# BEECROWD 1008 - Salário
+
 num = gets.to_i
 hour = gets.to_i
 whour = gets.to_f
