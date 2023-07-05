@@ -87,3 +87,27 @@ while i > 0
   puts i
   i = i - 1
 end
+
+# ======== Methods ========
+
+def sayJapanese
+  puts "douitashimashite"
+end
+
+sayJapanese
+
+# Methods with parameters
+
+def zeusAhh(num) 
+  puts "AHH " * num
+end
+
+zeusAhh(3)
+
+# Another Method with parameters
+
+def squareIt(number)
+  puts number ** 2
+end
+
+squareIt(2)
