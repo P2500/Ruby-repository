@@ -65,8 +65,25 @@ if booleanOne
 	
 	elsif number > num
 		puts "number #{number} is bigger than #{num}"
-	
-	else
+     
+	else 
 		puts "i don't know numbers"
 	end
 end 
+
+# ======== Unless, Until and While ========
+
+# Until statement is structure similarly to an IF statement.
+
+unless 30 < 10
+  puts "30 isn't bigger than 10"
+end
+
+# While
+
+i = 10
+
+while i > 0
+  puts i
+  i = i - 1
+end
