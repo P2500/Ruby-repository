@@ -6,4 +6,5 @@ This folder contains basic exercises using a platform of exercises called Beecro
 All codes are the right solution of each exercise number.
 
 ## Basics
-this folder contains the basic syntax learning about Ruby.
+This folder contains the basic syntax learning about Ruby.
+All codes are from reasearches. 
