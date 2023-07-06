@@ -7,4 +7,4 @@ All codes are the right solution of each exercise number.
 
 ## Basics
 This folder contains the basic syntax learning about Ruby.
-All codes are from reasearches. 
+All codes are from researches. 
